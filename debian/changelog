@@ -1,3 +1,23 @@
+mintdrivers (1.6.3) vanessa; urgency=medium
+
+  * l10n: Update translations
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 24 Jul 2022 12:17:37 +0200
+
+mintdrivers (1.6.2) vanessa; urgency=medium
+
+  * l10n: Update translations
+  * l10n: Update files
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 26 Jun 2022 15:56:59 +0200
+
+mintdrivers (1.6.1) vanessa; urgency=medium
+
+  [ www ]
+  * python3-psutil requirement (#70)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 10 Jun 2022 11:46:35 +0200
+
 mintdrivers (1.6.0) una; urgency=medium
 
   * l10n: Update translations
