@@ -165,6 +165,7 @@ class Application():
         return response.status_code == requests.codes.proxy_authentication_required
 
     def check_connectivity(self, reference):
+        print(reference)
         #Сonstant open path schema
         SCHEMA_PROXY = 'org.gnome.system.proxy'
         SCHEMA_HTTP = 'org.gnome.system.proxy.http'
